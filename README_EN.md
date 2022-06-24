@@ -1,42 +1,42 @@
-# vue-manage-system
+# template-vue3-pc-manage-system
+
+## Tools
+
+-   [x] Element-Plus
+-   [x] Vue3
+-   [x] Vue-router4
+-   [x] vuex4
+-   [x] Vite
+-   [x] axios
+-   [ ] mock
+-   [ ] jsTools
+-   [ ] eslint
 
 ## Function
 
--   [x] Element-UI
--   [x] Login/Logout
 -   [x] Dashboard
--   [x] Table
 -   [x] Tabs
--   [x] From
--   [x] Chart :bar_chart:
--   [ ] Editor
--   [ ] Markdown
--   [x] Upload pictures by clipping or dragging
--   [ ] Support manual switch themes :sparkles:
--   [ ] List drag sort
 -   [x] Permission
 -   [x] 404 / 403
--   [x] Three level menu
--   [x] Custom icon
 
 ## Installation steps
 
-    git clone https://github.com/lin-xin/vue-manage-system.git		// Clone templates
-    cd vue-manage-system											// Enter template directory
-    npm install													// Installation dependency
+```    
+npm install
+```
 
-## Local development
+```
+npm run dev
+```
 
-    // Open server and access http://localhost:8080 in browser
-    npm run serve
+```
+npm run build
+```
 
-## Constructing production
+### reference
 
-    // Constructing project
-    npm run build
+[vue-manage-system](https://github.com/lin-xin/vue-manage-system.git)
 
-## Component description and presentation
+## License
 
-### element-ui
-
-A desktop component library based on vue.js2.0 . Github : [element](http://element.eleme.io/#/zh-CN/component/layout)
+[MIT](https://github.com/lin-xin/vue-manage-system/blob/master/LICENSE)

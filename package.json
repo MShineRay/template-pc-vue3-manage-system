@@ -1,6 +1,6 @@
 {
-  "name": "vue-manage-system",
-  "version": "5.1.0",
+  "name": "template-vue3-pc-manage-system",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "vite",
